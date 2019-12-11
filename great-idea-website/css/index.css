@@ -75,11 +75,25 @@ html {
 	width: 10%;
 	color: gray;
 	text-decoration: none;
-	
-
 }
-
-.inn {
+.innWPic {
+	/* column-count: 1; */
+	display: inline-block;
+	width: 40%;
+	
+	margin: 5%;
+}
+/* .cirPic {
+	display: inline-block;
+	;
+}  */
+.IOD {
+	font-size: 70px;
+	font-family: 'Bangers';
+	padding-right: 3400px;
+	margin-left: 300px;
+}
+/* .inn {
 	display: inline-block;
 	height: 50px;
 	width: 33%;	
@@ -101,10 +115,11 @@ html {
 	width: 33%;	
 	font-size: 70px;
 	font-family: 'Bangers';
-}
+} */
 .get-started {
 	border: 1px solid black;
 	padding: 10px 40px;
+	margin-left: 300px;
 	display: inline-block;
 }
 .featAbout {
@@ -119,8 +134,10 @@ html {
 	display: inline-block;
 	height: 50px;
 	width: 49%;
+	margin-bottom: 50px;
 	
 }
+
 
 
 .servProVis {
@@ -141,8 +158,12 @@ html {
 .midSection {
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
+	margin-right: 500px;
 }
 
+/* .midAboveImg {
+	margin-bottom: 50px;
+} */
 .contact {
 	font-family: 'Bangers', cursive;
 	margin-top: 50px;
