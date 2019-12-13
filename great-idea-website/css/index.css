@@ -64,3 +64,116 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+html {
+	margin: 40px;
+}
+
+
+.links {
+	display: inline-block;
+	height: 50px;
+	width: 10%;
+	color: gray;
+	text-decoration: none;
+}
+.innWPic {
+	/* column-count: 1; */
+	display: inline-block;
+	width: 40%;
+	
+	margin: 5%;
+}
+/* .cirPic {
+	display: inline-block;
+	;
+}  */
+.IOD {
+	font-size: 70px;
+	font-family: 'Bangers';
+	padding-right: 3400px;
+	margin-left: 300px;
+}
+/* .inn {
+	display: inline-block;
+	height: 50px;
+	width: 33%;	
+	font-size: 70px;
+	font-family: 'Bangers'; 
+}
+
+.on {
+	display: inline-block;
+	height: 50px;
+	width: 33%;	
+	font-size: 70px;
+	font-family: 'Bangers';
+}
+
+.dem {
+	display: inline-block;
+	height: 50px;
+	width: 33%;	
+	font-size: 70px;
+	font-family: 'Bangers';
+} */
+.get-started {
+	border: 1px solid black;
+	padding: 10px 40px;
+	margin-left: 300px;
+	display: inline-block;
+}
+.featAbout {
+	display: inline-block;
+	height: 50px;
+	width: 49%;
+	margin-top: 50px;
+	font-family: 'Bangers', cursive;
+}
+
+.miscTextUpper {
+	display: inline-block;
+	height: 50px;
+	width: 49%;
+	margin-bottom: 50px;
+	
+}
+
+
+
+.servProVis {
+	display: inline-block;
+	height: 50px;
+	width: 33%;
+	margin-top: 50px;
+	font-family: 'Bangers', cursive;
+}
+
+.miscTextLower {
+	display: inline-block;
+	height: 50px;
+	width: 33%;
+	margin-bottom: 50px;
+}
+
+.midSection {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	margin-right: 500px;
+}
+
+/* .midAboveImg {
+	margin-bottom: 50px;
+} */
+.contact {
+	font-family: 'Bangers', cursive;
+	margin-top: 50px;
+	margin-bottom: 25px;
+}
+
+.number {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.copyright {
+	text-align: center;
+}
