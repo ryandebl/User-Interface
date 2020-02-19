@@ -66,12 +66,12 @@ h1, h2, h3, h4, h5 {
 /* Your code starts here! */
 html {
 	margin: 40px;
+	scroll-behavior: smooth;
 }
 
-nav {
-	position: sticky;
-	top: 0;
-}
+
+
+
 
 .links {
 	display: inline-block;
@@ -80,6 +80,18 @@ nav {
 	color: gray;
 	text-decoration: none;
 }
+
+nav {
+	position: fixed;
+}
+.navbar {
+	position: fixed;
+	top:0;
+	width: 100%;
+	z-index: 1;
+	
+}
+
 .innWPic {
 	/* column-count: 1; */
 	display: inline-block;
@@ -181,3 +193,4 @@ nav {
 .copyright {
 	text-align: center;
 }
+
