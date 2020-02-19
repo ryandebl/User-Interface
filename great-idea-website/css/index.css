@@ -68,6 +68,10 @@ html {
 	margin: 40px;
 }
 
+nav {
+	position: sticky;
+	top: 0;
+}
 
 .links {
 	display: inline-block;
